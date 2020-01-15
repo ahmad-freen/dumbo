@@ -6,4 +6,5 @@ First key
 	log	 hello
 
 *** Test Cases ***
-First key
+Test tthis test case
+    First key
